@@ -12,6 +12,3 @@ Just open index.html in a browser.
 
 ## Tech Used
 HTML, CSS, JavaScript
-
-## Created for
-[Your College/Project Name]
